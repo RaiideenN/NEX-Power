@@ -1,6 +1,6 @@
 # NEX Power V1
 
-O **NEX Power V1** é um plano de energia personalizado para Windows, baseado no plano **Desempenho Máximo** e configurado pela NEX.
+O **NEX Power V1** é um plano de energia personalizado para Windows
 
 ## Download
 
